@@ -31,7 +31,6 @@
 
 一つ注意点として、PureなC#のコンソールアプリと見分けをつけたいため、Unityの制作物はunityトピックのみでお願いします。
 
-![](https://i.imgur.com/fKpzdKD.png)
 
 
 
